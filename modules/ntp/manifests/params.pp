@@ -7,3 +7,4 @@ centos:{
 $package_name ='ntp'
 }
 }
+}

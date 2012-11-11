@@ -1,3 +1,3 @@
 class ntp {
-include ntp::install , ntp::service , ntp::config , ntp::params
+include ntp::install , ntp::service , ntp::config  
 }
