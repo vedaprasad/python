@@ -6,3 +6,5 @@ include ntp
 }
 node 'node2.spqr.com' inherits 'nod1.sqpr.com' {
 }
+node 'node3.spqr.com' inherites 'node2.spqr.com'{
+}
